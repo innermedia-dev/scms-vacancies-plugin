@@ -1,0 +1,15 @@
+.vacancyArchiveItem  {
+    margin-top:20px;
+}
+.vacancyArchiveItem.expireToday .deadline{
+    font-weight:700;
+}
+.vacancyArchiveItem.expireWeek .deadline{
+    font-weight:700;
+}
+.jobSummary .jobMeta{
+    margin-top:10px;
+}
+.jobSummary .jobMeta .jobMetaLabel {
+    font-weight: 700;
+}
